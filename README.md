@@ -7,7 +7,7 @@
 # Blooms-Taxonomy-QPA
   Question Paper Analyzer for University Question Papers. Download source codes in VScode/Any Appropriate IDE.
   Please note it will work for Text(Docx)  converted to PDF. Wont work for Image(.jpg etc) converted PDF.  
-  Sample (QP) question papers and Corresponding Reports Generated are given hereis given in Civil Engineering.pdf 
+  Sample (QP) question papers and Corresponding Reports Generated are given here.
 # Run 
  python .\analyze.py '.\Civil Engineering.pdf' "report-pdf"
 # To do 
