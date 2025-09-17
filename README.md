@@ -1,3 +1,7 @@
+# Pre requisites:
+    Install ollama
+# Pull 
+    ollama pull llama3.2:latest
 # Blooms-Taxonomy-QPA
   Question Paper Analyzer for University Question Papers 
   Download codes in Vscode
